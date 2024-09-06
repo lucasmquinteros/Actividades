@@ -1,0 +1,14 @@
+C:\Users\lmartiniquinteros\source\repos\POO\LISTAS\bin\Debug\net6.0\LISTAS.exe
+C:\Users\lmartiniquinteros\source\repos\POO\LISTAS\bin\Debug\net6.0\LISTAS.deps.json
+C:\Users\lmartiniquinteros\source\repos\POO\LISTAS\bin\Debug\net6.0\LISTAS.runtimeconfig.json
+C:\Users\lmartiniquinteros\source\repos\POO\LISTAS\bin\Debug\net6.0\LISTAS.dll
+C:\Users\lmartiniquinteros\source\repos\POO\LISTAS\bin\Debug\net6.0\LISTAS.pdb
+C:\Users\lmartiniquinteros\source\repos\POO\LISTAS\obj\Debug\net6.0\LISTAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmartiniquinteros\source\repos\POO\LISTAS\obj\Debug\net6.0\LISTAS.AssemblyInfoInputs.cache
+C:\Users\lmartiniquinteros\source\repos\POO\LISTAS\obj\Debug\net6.0\LISTAS.AssemblyInfo.cs
+C:\Users\lmartiniquinteros\source\repos\POO\LISTAS\obj\Debug\net6.0\LISTAS.csproj.CoreCompileInputs.cache
+C:\Users\lmartiniquinteros\source\repos\POO\LISTAS\obj\Debug\net6.0\LISTAS.dll
+C:\Users\lmartiniquinteros\source\repos\POO\LISTAS\obj\Debug\net6.0\refint\LISTAS.dll
+C:\Users\lmartiniquinteros\source\repos\POO\LISTAS\obj\Debug\net6.0\LISTAS.pdb
+C:\Users\lmartiniquinteros\source\repos\POO\LISTAS\obj\Debug\net6.0\LISTAS.genruntimeconfig.cache
+C:\Users\lmartiniquinteros\source\repos\POO\LISTAS\obj\Debug\net6.0\ref\LISTAS.dll

@@ -1,0 +1,14 @@
+C:\Users\lmartiniquinteros\source\repos\POO\ESCUELA\bin\Debug\net6.0\ESCUELA.exe
+C:\Users\lmartiniquinteros\source\repos\POO\ESCUELA\bin\Debug\net6.0\ESCUELA.deps.json
+C:\Users\lmartiniquinteros\source\repos\POO\ESCUELA\bin\Debug\net6.0\ESCUELA.runtimeconfig.json
+C:\Users\lmartiniquinteros\source\repos\POO\ESCUELA\bin\Debug\net6.0\ESCUELA.dll
+C:\Users\lmartiniquinteros\source\repos\POO\ESCUELA\bin\Debug\net6.0\ESCUELA.pdb
+C:\Users\lmartiniquinteros\source\repos\POO\ESCUELA\obj\Debug\net6.0\ESCUELA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmartiniquinteros\source\repos\POO\ESCUELA\obj\Debug\net6.0\ESCUELA.AssemblyInfoInputs.cache
+C:\Users\lmartiniquinteros\source\repos\POO\ESCUELA\obj\Debug\net6.0\ESCUELA.AssemblyInfo.cs
+C:\Users\lmartiniquinteros\source\repos\POO\ESCUELA\obj\Debug\net6.0\ESCUELA.csproj.CoreCompileInputs.cache
+C:\Users\lmartiniquinteros\source\repos\POO\ESCUELA\obj\Debug\net6.0\ESCUELA.dll
+C:\Users\lmartiniquinteros\source\repos\POO\ESCUELA\obj\Debug\net6.0\refint\ESCUELA.dll
+C:\Users\lmartiniquinteros\source\repos\POO\ESCUELA\obj\Debug\net6.0\ESCUELA.pdb
+C:\Users\lmartiniquinteros\source\repos\POO\ESCUELA\obj\Debug\net6.0\ESCUELA.genruntimeconfig.cache
+C:\Users\lmartiniquinteros\source\repos\POO\ESCUELA\obj\Debug\net6.0\ref\ESCUELA.dll

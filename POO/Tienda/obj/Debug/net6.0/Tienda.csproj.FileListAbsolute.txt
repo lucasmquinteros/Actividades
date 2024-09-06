@@ -1,0 +1,14 @@
+C:\Users\lmartiniquinteros\source\repos\POO\Tienda\bin\Debug\net6.0\Tienda.exe
+C:\Users\lmartiniquinteros\source\repos\POO\Tienda\bin\Debug\net6.0\Tienda.deps.json
+C:\Users\lmartiniquinteros\source\repos\POO\Tienda\bin\Debug\net6.0\Tienda.runtimeconfig.json
+C:\Users\lmartiniquinteros\source\repos\POO\Tienda\bin\Debug\net6.0\Tienda.dll
+C:\Users\lmartiniquinteros\source\repos\POO\Tienda\bin\Debug\net6.0\Tienda.pdb
+C:\Users\lmartiniquinteros\source\repos\POO\Tienda\obj\Debug\net6.0\Tienda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmartiniquinteros\source\repos\POO\Tienda\obj\Debug\net6.0\Tienda.AssemblyInfoInputs.cache
+C:\Users\lmartiniquinteros\source\repos\POO\Tienda\obj\Debug\net6.0\Tienda.AssemblyInfo.cs
+C:\Users\lmartiniquinteros\source\repos\POO\Tienda\obj\Debug\net6.0\Tienda.csproj.CoreCompileInputs.cache
+C:\Users\lmartiniquinteros\source\repos\POO\Tienda\obj\Debug\net6.0\Tienda.dll
+C:\Users\lmartiniquinteros\source\repos\POO\Tienda\obj\Debug\net6.0\refint\Tienda.dll
+C:\Users\lmartiniquinteros\source\repos\POO\Tienda\obj\Debug\net6.0\Tienda.pdb
+C:\Users\lmartiniquinteros\source\repos\POO\Tienda\obj\Debug\net6.0\Tienda.genruntimeconfig.cache
+C:\Users\lmartiniquinteros\source\repos\POO\Tienda\obj\Debug\net6.0\ref\Tienda.dll

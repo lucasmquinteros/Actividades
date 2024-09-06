@@ -1,0 +1,14 @@
+C:\Users\lmartiniquinteros\source\repos\POO\Persona juridica\bin\Debug\net6.0\Persona juridica.exe
+C:\Users\lmartiniquinteros\source\repos\POO\Persona juridica\bin\Debug\net6.0\Persona juridica.deps.json
+C:\Users\lmartiniquinteros\source\repos\POO\Persona juridica\bin\Debug\net6.0\Persona juridica.runtimeconfig.json
+C:\Users\lmartiniquinteros\source\repos\POO\Persona juridica\bin\Debug\net6.0\Persona juridica.dll
+C:\Users\lmartiniquinteros\source\repos\POO\Persona juridica\bin\Debug\net6.0\Persona juridica.pdb
+C:\Users\lmartiniquinteros\source\repos\POO\Persona juridica\obj\Debug\net6.0\Persona juridica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmartiniquinteros\source\repos\POO\Persona juridica\obj\Debug\net6.0\Persona juridica.AssemblyInfoInputs.cache
+C:\Users\lmartiniquinteros\source\repos\POO\Persona juridica\obj\Debug\net6.0\Persona juridica.AssemblyInfo.cs
+C:\Users\lmartiniquinteros\source\repos\POO\Persona juridica\obj\Debug\net6.0\Persona juridica.csproj.CoreCompileInputs.cache
+C:\Users\lmartiniquinteros\source\repos\POO\Persona juridica\obj\Debug\net6.0\Persona juridica.dll
+C:\Users\lmartiniquinteros\source\repos\POO\Persona juridica\obj\Debug\net6.0\refint\Persona juridica.dll
+C:\Users\lmartiniquinteros\source\repos\POO\Persona juridica\obj\Debug\net6.0\Persona juridica.pdb
+C:\Users\lmartiniquinteros\source\repos\POO\Persona juridica\obj\Debug\net6.0\Persona juridica.genruntimeconfig.cache
+C:\Users\lmartiniquinteros\source\repos\POO\Persona juridica\obj\Debug\net6.0\ref\Persona juridica.dll

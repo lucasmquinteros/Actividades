@@ -1,0 +1,14 @@
+C:\Users\lmartiniquinteros\source\repos\POO\ConsoleApp1\bin\Debug\net6.0\Plantas.exe
+C:\Users\lmartiniquinteros\source\repos\POO\ConsoleApp1\bin\Debug\net6.0\Plantas.deps.json
+C:\Users\lmartiniquinteros\source\repos\POO\ConsoleApp1\bin\Debug\net6.0\Plantas.runtimeconfig.json
+C:\Users\lmartiniquinteros\source\repos\POO\ConsoleApp1\bin\Debug\net6.0\Plantas.dll
+C:\Users\lmartiniquinteros\source\repos\POO\ConsoleApp1\bin\Debug\net6.0\Plantas.pdb
+C:\Users\lmartiniquinteros\source\repos\POO\ConsoleApp1\obj\Debug\net6.0\Plantas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmartiniquinteros\source\repos\POO\ConsoleApp1\obj\Debug\net6.0\Plantas.AssemblyInfoInputs.cache
+C:\Users\lmartiniquinteros\source\repos\POO\ConsoleApp1\obj\Debug\net6.0\Plantas.AssemblyInfo.cs
+C:\Users\lmartiniquinteros\source\repos\POO\ConsoleApp1\obj\Debug\net6.0\Plantas.csproj.CoreCompileInputs.cache
+C:\Users\lmartiniquinteros\source\repos\POO\ConsoleApp1\obj\Debug\net6.0\Plantas.dll
+C:\Users\lmartiniquinteros\source\repos\POO\ConsoleApp1\obj\Debug\net6.0\refint\Plantas.dll
+C:\Users\lmartiniquinteros\source\repos\POO\ConsoleApp1\obj\Debug\net6.0\Plantas.pdb
+C:\Users\lmartiniquinteros\source\repos\POO\ConsoleApp1\obj\Debug\net6.0\Plantas.genruntimeconfig.cache
+C:\Users\lmartiniquinteros\source\repos\POO\ConsoleApp1\obj\Debug\net6.0\ref\Plantas.dll

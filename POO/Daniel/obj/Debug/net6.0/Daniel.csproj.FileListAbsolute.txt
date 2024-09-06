@@ -1,0 +1,14 @@
+C:\Users\lmartiniquinteros\source\repos\POO\Daniel\obj\Debug\net6.0\Daniel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmartiniquinteros\source\repos\POO\Daniel\obj\Debug\net6.0\Daniel.AssemblyInfoInputs.cache
+C:\Users\lmartiniquinteros\source\repos\POO\Daniel\obj\Debug\net6.0\Daniel.AssemblyInfo.cs
+C:\Users\lmartiniquinteros\source\repos\POO\Daniel\obj\Debug\net6.0\Daniel.csproj.CoreCompileInputs.cache
+C:\Users\lmartiniquinteros\source\repos\POO\Daniel\bin\Debug\net6.0\Daniel.exe
+C:\Users\lmartiniquinteros\source\repos\POO\Daniel\bin\Debug\net6.0\Daniel.deps.json
+C:\Users\lmartiniquinteros\source\repos\POO\Daniel\bin\Debug\net6.0\Daniel.runtimeconfig.json
+C:\Users\lmartiniquinteros\source\repos\POO\Daniel\bin\Debug\net6.0\Daniel.dll
+C:\Users\lmartiniquinteros\source\repos\POO\Daniel\bin\Debug\net6.0\Daniel.pdb
+C:\Users\lmartiniquinteros\source\repos\POO\Daniel\obj\Debug\net6.0\Daniel.dll
+C:\Users\lmartiniquinteros\source\repos\POO\Daniel\obj\Debug\net6.0\refint\Daniel.dll
+C:\Users\lmartiniquinteros\source\repos\POO\Daniel\obj\Debug\net6.0\Daniel.pdb
+C:\Users\lmartiniquinteros\source\repos\POO\Daniel\obj\Debug\net6.0\Daniel.genruntimeconfig.cache
+C:\Users\lmartiniquinteros\source\repos\POO\Daniel\obj\Debug\net6.0\ref\Daniel.dll

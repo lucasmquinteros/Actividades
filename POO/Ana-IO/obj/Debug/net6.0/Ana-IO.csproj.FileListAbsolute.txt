@@ -1,0 +1,14 @@
+C:\Users\lmartiniquinteros\source\repos\POO\Ana-IO\bin\Debug\net6.0\Ana-IO.exe
+C:\Users\lmartiniquinteros\source\repos\POO\Ana-IO\bin\Debug\net6.0\Ana-IO.deps.json
+C:\Users\lmartiniquinteros\source\repos\POO\Ana-IO\bin\Debug\net6.0\Ana-IO.runtimeconfig.json
+C:\Users\lmartiniquinteros\source\repos\POO\Ana-IO\bin\Debug\net6.0\Ana-IO.dll
+C:\Users\lmartiniquinteros\source\repos\POO\Ana-IO\bin\Debug\net6.0\Ana-IO.pdb
+C:\Users\lmartiniquinteros\source\repos\POO\Ana-IO\obj\Debug\net6.0\Ana-IO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmartiniquinteros\source\repos\POO\Ana-IO\obj\Debug\net6.0\Ana-IO.AssemblyInfoInputs.cache
+C:\Users\lmartiniquinteros\source\repos\POO\Ana-IO\obj\Debug\net6.0\Ana-IO.AssemblyInfo.cs
+C:\Users\lmartiniquinteros\source\repos\POO\Ana-IO\obj\Debug\net6.0\Ana-IO.csproj.CoreCompileInputs.cache
+C:\Users\lmartiniquinteros\source\repos\POO\Ana-IO\obj\Debug\net6.0\Ana-IO.dll
+C:\Users\lmartiniquinteros\source\repos\POO\Ana-IO\obj\Debug\net6.0\refint\Ana-IO.dll
+C:\Users\lmartiniquinteros\source\repos\POO\Ana-IO\obj\Debug\net6.0\Ana-IO.pdb
+C:\Users\lmartiniquinteros\source\repos\POO\Ana-IO\obj\Debug\net6.0\Ana-IO.genruntimeconfig.cache
+C:\Users\lmartiniquinteros\source\repos\POO\Ana-IO\obj\Debug\net6.0\ref\Ana-IO.dll

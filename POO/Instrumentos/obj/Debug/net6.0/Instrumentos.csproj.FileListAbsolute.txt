@@ -1,0 +1,14 @@
+C:\Users\lmartiniquinteros\source\repos\POO\Instrumentos\bin\Debug\net6.0\Instrumentos.exe
+C:\Users\lmartiniquinteros\source\repos\POO\Instrumentos\bin\Debug\net6.0\Instrumentos.deps.json
+C:\Users\lmartiniquinteros\source\repos\POO\Instrumentos\bin\Debug\net6.0\Instrumentos.runtimeconfig.json
+C:\Users\lmartiniquinteros\source\repos\POO\Instrumentos\bin\Debug\net6.0\Instrumentos.dll
+C:\Users\lmartiniquinteros\source\repos\POO\Instrumentos\bin\Debug\net6.0\Instrumentos.pdb
+C:\Users\lmartiniquinteros\source\repos\POO\Instrumentos\obj\Debug\net6.0\Instrumentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmartiniquinteros\source\repos\POO\Instrumentos\obj\Debug\net6.0\Instrumentos.AssemblyInfoInputs.cache
+C:\Users\lmartiniquinteros\source\repos\POO\Instrumentos\obj\Debug\net6.0\Instrumentos.AssemblyInfo.cs
+C:\Users\lmartiniquinteros\source\repos\POO\Instrumentos\obj\Debug\net6.0\Instrumentos.csproj.CoreCompileInputs.cache
+C:\Users\lmartiniquinteros\source\repos\POO\Instrumentos\obj\Debug\net6.0\Instrumentos.dll
+C:\Users\lmartiniquinteros\source\repos\POO\Instrumentos\obj\Debug\net6.0\refint\Instrumentos.dll
+C:\Users\lmartiniquinteros\source\repos\POO\Instrumentos\obj\Debug\net6.0\Instrumentos.pdb
+C:\Users\lmartiniquinteros\source\repos\POO\Instrumentos\obj\Debug\net6.0\Instrumentos.genruntimeconfig.cache
+C:\Users\lmartiniquinteros\source\repos\POO\Instrumentos\obj\Debug\net6.0\ref\Instrumentos.dll

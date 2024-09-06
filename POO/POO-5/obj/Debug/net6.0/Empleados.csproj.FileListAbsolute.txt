@@ -1,0 +1,14 @@
+C:\Users\lmartiniquinteros\source\repos\POO\POO-5\bin\Debug\net6.0\Empleados.exe
+C:\Users\lmartiniquinteros\source\repos\POO\POO-5\bin\Debug\net6.0\Empleados.deps.json
+C:\Users\lmartiniquinteros\source\repos\POO\POO-5\bin\Debug\net6.0\Empleados.runtimeconfig.json
+C:\Users\lmartiniquinteros\source\repos\POO\POO-5\bin\Debug\net6.0\Empleados.dll
+C:\Users\lmartiniquinteros\source\repos\POO\POO-5\bin\Debug\net6.0\Empleados.pdb
+C:\Users\lmartiniquinteros\source\repos\POO\POO-5\obj\Debug\net6.0\Empleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmartiniquinteros\source\repos\POO\POO-5\obj\Debug\net6.0\Empleados.AssemblyInfoInputs.cache
+C:\Users\lmartiniquinteros\source\repos\POO\POO-5\obj\Debug\net6.0\Empleados.AssemblyInfo.cs
+C:\Users\lmartiniquinteros\source\repos\POO\POO-5\obj\Debug\net6.0\Empleados.csproj.CoreCompileInputs.cache
+C:\Users\lmartiniquinteros\source\repos\POO\POO-5\obj\Debug\net6.0\Empleados.dll
+C:\Users\lmartiniquinteros\source\repos\POO\POO-5\obj\Debug\net6.0\refint\Empleados.dll
+C:\Users\lmartiniquinteros\source\repos\POO\POO-5\obj\Debug\net6.0\Empleados.pdb
+C:\Users\lmartiniquinteros\source\repos\POO\POO-5\obj\Debug\net6.0\Empleados.genruntimeconfig.cache
+C:\Users\lmartiniquinteros\source\repos\POO\POO-5\obj\Debug\net6.0\ref\Empleados.dll

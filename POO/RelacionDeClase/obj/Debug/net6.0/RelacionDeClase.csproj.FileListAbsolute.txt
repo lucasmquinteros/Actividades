@@ -1,0 +1,14 @@
+C:\Users\lmartiniquinteros\source\repos\POO\RelacionDeClase\bin\Debug\net6.0\RelacionDeClase.exe
+C:\Users\lmartiniquinteros\source\repos\POO\RelacionDeClase\bin\Debug\net6.0\RelacionDeClase.deps.json
+C:\Users\lmartiniquinteros\source\repos\POO\RelacionDeClase\bin\Debug\net6.0\RelacionDeClase.runtimeconfig.json
+C:\Users\lmartiniquinteros\source\repos\POO\RelacionDeClase\bin\Debug\net6.0\RelacionDeClase.dll
+C:\Users\lmartiniquinteros\source\repos\POO\RelacionDeClase\bin\Debug\net6.0\RelacionDeClase.pdb
+C:\Users\lmartiniquinteros\source\repos\POO\RelacionDeClase\obj\Debug\net6.0\RelacionDeClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmartiniquinteros\source\repos\POO\RelacionDeClase\obj\Debug\net6.0\RelacionDeClase.AssemblyInfoInputs.cache
+C:\Users\lmartiniquinteros\source\repos\POO\RelacionDeClase\obj\Debug\net6.0\RelacionDeClase.AssemblyInfo.cs
+C:\Users\lmartiniquinteros\source\repos\POO\RelacionDeClase\obj\Debug\net6.0\RelacionDeClase.csproj.CoreCompileInputs.cache
+C:\Users\lmartiniquinteros\source\repos\POO\RelacionDeClase\obj\Debug\net6.0\RelacionDeClase.dll
+C:\Users\lmartiniquinteros\source\repos\POO\RelacionDeClase\obj\Debug\net6.0\refint\RelacionDeClase.dll
+C:\Users\lmartiniquinteros\source\repos\POO\RelacionDeClase\obj\Debug\net6.0\RelacionDeClase.pdb
+C:\Users\lmartiniquinteros\source\repos\POO\RelacionDeClase\obj\Debug\net6.0\RelacionDeClase.genruntimeconfig.cache
+C:\Users\lmartiniquinteros\source\repos\POO\RelacionDeClase\obj\Debug\net6.0\ref\RelacionDeClase.dll
