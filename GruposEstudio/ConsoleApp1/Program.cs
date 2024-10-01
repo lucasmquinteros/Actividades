@@ -7,6 +7,7 @@ class Estudiante {
     {
         Nombre = nombre;
         Materias = materias;
+       
     }public Estudiante(string nombre, string materia)
     {
         Nombre = nombre;
@@ -59,18 +60,17 @@ class GrupoEstudiantil
 
 
 
-
 static class Sistema
 {
     static Dictionary<string, GrupoEstudiantil> grupos = new Dictionary<string, GrupoEstudiantil>();
-
+    static Dictionary<string, List<Estudiante>> EstudiantesPorMateria = new Dictionary<string, List<Estudiante>>();
     public static void CrearGrupo()
     {
         Console.Write("Ingrese el nombre del grupo: ");
         string nombreGrupo = Console.ReadLine();
 
         grupos[nombreGrupo] = new GrupoEstudiantil(nombreGrupo);
-        Console.WriteLine($"Grupo de estudio '{nombreGrupo}' creado");
+        Console.WriteLine($"Grupo de estudio '{nombreGrupo}' creado\n");
     }
 
     public static void AgregarEstudiantes()
@@ -86,8 +86,12 @@ static class Sistema
             List<string> list = new List<string>(materias.Split(','));
             Estudiante estudiante = new Estudiante(nombreEstudiante, list);
             grupos[nombreGrupo].AgregarEstudiante(estudiante);
+            foreach(var mat in list)
+            {
+                Sistema.AgregarAlumno(mat, estudiante);
+            }
 
-            Console.WriteLine($"Estudiante: {nombreEstudiante} agregado al grupo {nombreGrupo}");
+            Console.WriteLine($"Estudiante: {nombreEstudiante} agregado al grupo {nombreGrupo}\n");
         }
         else
         {
@@ -110,6 +114,43 @@ static class Sistema
             Console.WriteLine("Grupo no encontrado.");
         }
     }
+    public static void AgregarAlumno(string materia, Estudiante est)
+    {
+        if (EstudiantesPorMateria.ContainsKey(materia))
+        {
+            EstudiantesPorMateria[materia].Add(est);
+        }
+        else
+        {
+            EstudiantesPorMateria[materia] = new List<Estudiante> { est };
+        }
+    }
+    public static void ConsultarAlumnoEnMateria()
+    {
+        Console.Write("Ingrese el nombre de la materia que quiere consultar: ");
+        string materia = Console.ReadLine();
+
+        if (EstudiantesPorMateria.ContainsKey(materia))
+        {
+            if (EstudiantesPorMateria[materia].Count() > 0)
+            {
+                Console.WriteLine($"Estudiantes en {materia}:");
+                foreach (var estudiante in EstudiantesPorMateria[materia])
+                {
+                    Console.WriteLine($"- {estudiante.Nombre}");
+                }
+            }
+            else
+            {
+                Console.WriteLine("No hay ningun alumno cursando esta materia. ");
+            }
+            
+        }
+        else
+        {
+            Console.WriteLine($"La materia {materia} no existe en el diccionario.");
+        }
+    }
 }
 class Program
 {
@@ -121,8 +162,9 @@ class Program
             Console.WriteLine("== opciones ==");
             Console.WriteLine("1. Ingrese 1 para crear Grupo");
             Console.WriteLine("2. Ingrese 2 para agregar Estudiante");
-            Console.WriteLine("3. Mostrar todos los estudiantes por materia");
-            Console.WriteLine("4. Salir");
+            Console.WriteLine("3. Mostrar todos los estudiantes de un grupo en una materia");
+            Console.WriteLine("4. Mostrar todos los estudiantes de una materia");
+            Console.WriteLine("5. Salir");
 
             Console.Write("Ingrese la Opcion: ");
             opcion = int.Parse(Console.ReadLine());
@@ -139,9 +181,12 @@ class Program
                     Sistema.MostrarEstudiantesPorMateria();
                     break;
                 case 4:
-                    Console.WriteLine("Saliendo...");
+                    Sistema.ConsultarAlumnoEnMateria();
+                    break;
+                case 5:
+                    Console.WriteLine("Saliendo... ");
                     break;
             }
-        } while (opcion != 4);
+        } while (opcion != 5);
     }
 }
