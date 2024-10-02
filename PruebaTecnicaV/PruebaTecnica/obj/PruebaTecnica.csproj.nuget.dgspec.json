@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\source\\repos\\PruebaTecnicaV\\PruebaTecnica\\PruebaTecnica.csproj": {}
+    "C:\\Users\\lucas\\OneDrive\\Desktop\\lucas\\C#\\git\\Actividades\\PruebaTecnicaV\\PruebaTecnica\\PruebaTecnica.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\source\\repos\\PruebaTecnicaV\\PruebaTecnica\\PruebaTecnica.csproj": {
+    "C:\\Users\\lucas\\OneDrive\\Desktop\\lucas\\C#\\git\\Actividades\\PruebaTecnicaV\\PruebaTecnica\\PruebaTecnica.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\source\\repos\\PruebaTecnicaV\\PruebaTecnica\\PruebaTecnica.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\OneDrive\\Desktop\\lucas\\C#\\git\\Actividades\\PruebaTecnicaV\\PruebaTecnica\\PruebaTecnica.csproj",
         "projectName": "PruebaTecnica",
-        "projectPath": "C:\\Users\\lucas\\source\\repos\\PruebaTecnicaV\\PruebaTecnica\\PruebaTecnica.csproj",
+        "projectPath": "C:\\Users\\lucas\\OneDrive\\Desktop\\lucas\\C#\\git\\Actividades\\PruebaTecnicaV\\PruebaTecnica\\PruebaTecnica.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\source\\repos\\PruebaTecnicaV\\PruebaTecnica\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\OneDrive\\Desktop\\lucas\\C#\\git\\Actividades\\PruebaTecnicaV\\PruebaTecnica\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

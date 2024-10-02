@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PruebaTecnica
-build_property.ProjectDir = C:\Users\lucas\source\repos\PruebaTecnicaV\PruebaTecnica\
+build_property.ProjectDir = C:\Users\lucas\OneDrive\Desktop\lucas\C#\git\Actividades\PruebaTecnicaV\PruebaTecnica\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

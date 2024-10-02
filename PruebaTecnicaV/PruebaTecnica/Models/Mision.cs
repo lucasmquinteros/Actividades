@@ -25,16 +25,9 @@ namespace PruebaTecnica.Models
             return PuntosEXdeRecompensa;
         }
         //conocer si el jugador tiene la capacidad de superar la mision
-        public bool superaMision(Jugador jugador)
+        public virtual bool superaMision(Jugador jugador)
         {
-            if(jugador.puntosExperienciaAcomulados < MinimoPuntosEXRequeridos)
-            {
-                return true;
-            }
-            else
-            {
-                return false;
-            }
+            return jugador.getPuntosExperienciaAcomulados() > MinimoPuntosEXRequeridos;
         }
     }
 }

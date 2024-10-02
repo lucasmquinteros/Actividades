@@ -33,13 +33,7 @@ namespace PruebaTecnica.Models
         //realizar accion: 
         public Boolean realizoAccion(string elemento)
         {
-            if (AccionesRealizadas.Contains(elemento))
-            {
-                return true;
-            }
-            else {
-                return false;
-            }
+            return AccionesRealizadas.Contains(elemento);
         }
         //agregar una mision superada
         public Boolean addMisionSuperada(string mision)
@@ -83,6 +77,6 @@ namespace PruebaTecnica.Models
 
             return nombreIgual;
         }
-
+        
     }
 }

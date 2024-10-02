@@ -13,6 +13,7 @@ class Program
         A1.addMision(m2);
         A1.addMision(m3);
         A1.addMision(m4);
+        m4.addAccionRequerida("llegar al castillo");
 
         Jugador Player1 = new Jugador("Lucas", A1);
         Player1.addAccion("Moverse");

@@ -1,4 +1,6 @@
 ﻿
+using System.Reflection.Metadata.Ecma335;
+
 namespace PruebaTecnica.Models
 {
     public class MisionCasiImposible : Mision
@@ -21,6 +23,18 @@ namespace PruebaTecnica.Models
                 accionesRequeridas.Add(accion);
                 return true;
             }
+        }
+        //actividad 2, implementar un metodo donde el jugador tenga suficiente XP para realizar la mision y si realizo todas las acciones necesarias.
+        public override bool superaMision(Jugador jugador)
+        {
+            int contador = 0;
+            foreach (var accion in jugador.AccionesRealizadas) {
+                if (accionesRequeridas.Contains(accion))
+                {
+                    contador++;
+                }
+            }
+            return base.superaMision(jugador) && contador == accionesRequeridas.Count();
         }
     }
 }
