@@ -1,0 +1,14 @@
+C:\Users\lmartiniquinteros\source\repos\POO-2\EmpresaTickets\bin\Debug\net6.0\EmpresaTickets.exe
+C:\Users\lmartiniquinteros\source\repos\POO-2\EmpresaTickets\bin\Debug\net6.0\EmpresaTickets.deps.json
+C:\Users\lmartiniquinteros\source\repos\POO-2\EmpresaTickets\bin\Debug\net6.0\EmpresaTickets.runtimeconfig.json
+C:\Users\lmartiniquinteros\source\repos\POO-2\EmpresaTickets\bin\Debug\net6.0\EmpresaTickets.dll
+C:\Users\lmartiniquinteros\source\repos\POO-2\EmpresaTickets\bin\Debug\net6.0\EmpresaTickets.pdb
+C:\Users\lmartiniquinteros\source\repos\POO-2\EmpresaTickets\obj\Debug\net6.0\EmpresaTickets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmartiniquinteros\source\repos\POO-2\EmpresaTickets\obj\Debug\net6.0\EmpresaTickets.AssemblyInfoInputs.cache
+C:\Users\lmartiniquinteros\source\repos\POO-2\EmpresaTickets\obj\Debug\net6.0\EmpresaTickets.AssemblyInfo.cs
+C:\Users\lmartiniquinteros\source\repos\POO-2\EmpresaTickets\obj\Debug\net6.0\EmpresaTickets.csproj.CoreCompileInputs.cache
+C:\Users\lmartiniquinteros\source\repos\POO-2\EmpresaTickets\obj\Debug\net6.0\EmpresaTickets.dll
+C:\Users\lmartiniquinteros\source\repos\POO-2\EmpresaTickets\obj\Debug\net6.0\refint\EmpresaTickets.dll
+C:\Users\lmartiniquinteros\source\repos\POO-2\EmpresaTickets\obj\Debug\net6.0\EmpresaTickets.pdb
+C:\Users\lmartiniquinteros\source\repos\POO-2\EmpresaTickets\obj\Debug\net6.0\EmpresaTickets.genruntimeconfig.cache
+C:\Users\lmartiniquinteros\source\repos\POO-2\EmpresaTickets\obj\Debug\net6.0\ref\EmpresaTickets.dll

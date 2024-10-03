@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "3u/Xhhs/UFfsKhSrPYviQ2q0sAMxncDA/cPDKwneWSfI/lDIQalh1GTI80iERQ/0VyQ7lWnctXTrnsZrcfpryg==",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\lmartiniquinteros\\source\\repos\\Persistencia\\ListaDeTareas\\ListaDeTareas.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "3u/Xhhs/UFfsKhSrPYviQ2q0sAMxncDA/cPDKwneWSfI/lDIQalh1GTI80iERQ/0VyQ7lWnctXTrnsZrcfpryg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lmartiniquinteros\\source\\repos\\Persistencia\\ListaDeTareas\\ListaDeTareas.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> b945f3d38d98caebba8bafa089e8be49b0129c4a
 }

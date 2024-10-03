@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 Lucas
 Tarea1|False
 Tarea2|True
 -
+=======
+Lucas
+Tarea1|False
+Tarea2|True
+-
+>>>>>>> b945f3d38d98caebba8bafa089e8be49b0129c4a

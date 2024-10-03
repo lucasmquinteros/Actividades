@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucas\\OneDrive\\Desktop\\lucas\\C#\\git\\Actividades\\PruebaTecnicaV\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2790DAF2-FD96-469C-84FD-EBA6B63AF992}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\lucas\\onedrive\\desktop\\lucas\\c#\\git\\actividades\\pruebatecnicav\\pruebatecnica\\models\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2790DAF2-FD96-469C-84FD-EBA6B63AF992}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\models\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2790DAF2-FD96-469C-84FD-EBA6B63AF992}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\lucas\\onedrive\\desktop\\lucas\\c#\\git\\actividades\\pruebatecnicav\\pruebatecnica\\models\\aventura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2790DAF2-FD96-469C-84FD-EBA6B63AF992}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\models\\aventura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2790DAF2-FD96-469C-84FD-EBA6B63AF992}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\lucas\\onedrive\\desktop\\lucas\\c#\\git\\actividades\\pruebatecnicav\\pruebatecnica\\models\\mision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2790DAF2-FD96-469C-84FD-EBA6B63AF992}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\models\\mision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2790DAF2-FD96-469C-84FD-EBA6B63AF992}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\lucas\\onedrive\\desktop\\lucas\\c#\\git\\actividades\\pruebatecnicav\\pruebatecnica\\models\\misioncasiimposible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2790DAF2-FD96-469C-84FD-EBA6B63AF992}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\models\\misioncasiimposible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2790DAF2-FD96-469C-84FD-EBA6B63AF992}|PruebaTecnica\\PruebaTecnica.csproj|c:\\users\\lucas\\onedrive\\desktop\\lucas\\c#\\git\\actividades\\pruebatecnicav\\pruebatecnica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2790DAF2-FD96-469C-84FD-EBA6B63AF992}|PruebaTecnica\\PruebaTecnica.csproj|solutionrelative:pruebatecnica\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Desktop\\lucas\\C#\\git\\Actividades\\PruebaTecnicaV\\PruebaTecnica\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Program.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\lucas\\C#\\git\\Actividades\\PruebaTecnicaV\\PruebaTecnica\\Program.cs",
+              "RelativeToolTip": "PruebaTecnica\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T03:43:40.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mision.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Desktop\\lucas\\C#\\git\\Actividades\\PruebaTecnicaV\\PruebaTecnica\\Models\\Mision.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Models\\Mision.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\lucas\\C#\\git\\Actividades\\PruebaTecnicaV\\PruebaTecnica\\Models\\Mision.cs",
+              "RelativeToolTip": "PruebaTecnica\\Models\\Mision.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvxsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:17:22.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MisionCasiImposible.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Desktop\\lucas\\C#\\git\\Actividades\\PruebaTecnicaV\\PruebaTecnica\\Models\\MisionCasiImposible.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Models\\MisionCasiImposible.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\lucas\\C#\\git\\Actividades\\PruebaTecnicaV\\PruebaTecnica\\Models\\MisionCasiImposible.cs",
+              "RelativeToolTip": "PruebaTecnica\\Models\\MisionCasiImposible.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAYwBoAAACVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:17:43.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aventura.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Desktop\\lucas\\C#\\git\\Actividades\\PruebaTecnicaV\\PruebaTecnica\\Models\\Aventura.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Models\\Aventura.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\lucas\\C#\\git\\Actividades\\PruebaTecnicaV\\PruebaTecnica\\Models\\Aventura.cs",
+              "RelativeToolTip": "PruebaTecnica\\Models\\Aventura.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAQwDsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:17:38.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Jugador.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\OneDrive\\Desktop\\lucas\\C#\\git\\Actividades\\PruebaTecnicaV\\PruebaTecnica\\Models\\Jugador.cs",
+              "RelativeDocumentMoniker": "PruebaTecnica\\Models\\Jugador.cs",
+              "ToolTip": "C:\\Users\\lucas\\OneDrive\\Desktop\\lucas\\C#\\git\\Actividades\\PruebaTecnicaV\\PruebaTecnica\\Models\\Jugador.cs",
+              "RelativeToolTip": "PruebaTecnica\\Models\\Jugador.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAUwE4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T01:02:53.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

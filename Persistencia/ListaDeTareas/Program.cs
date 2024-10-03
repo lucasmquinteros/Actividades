@@ -1,4 +1,4 @@
-﻿/*
+/*
 Se va a implementar un sistema de gestión de tareas pendientes para un grupo de usuarios. Cada usuario tiene una lista de tareas, y cada tarea contiene una descripción y un estado (pendiente o completada). El sistema debe permitir agregar nuevas tareas, cambiar su estado, listar las tareas por usuario y guardar toda la información en archivos de texto para que persistan entre ejecuciones.
 
 Requerimientos:
