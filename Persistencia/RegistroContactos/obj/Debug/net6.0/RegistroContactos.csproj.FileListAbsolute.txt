@@ -1,0 +1,14 @@
+C:\Users\lmartiniquinteros\source\repos\Persistencia\RegistroContactos\bin\Debug\net6.0\RegistroContactos.exe
+C:\Users\lmartiniquinteros\source\repos\Persistencia\RegistroContactos\bin\Debug\net6.0\RegistroContactos.deps.json
+C:\Users\lmartiniquinteros\source\repos\Persistencia\RegistroContactos\bin\Debug\net6.0\RegistroContactos.runtimeconfig.json
+C:\Users\lmartiniquinteros\source\repos\Persistencia\RegistroContactos\bin\Debug\net6.0\RegistroContactos.dll
+C:\Users\lmartiniquinteros\source\repos\Persistencia\RegistroContactos\bin\Debug\net6.0\RegistroContactos.pdb
+C:\Users\lmartiniquinteros\source\repos\Persistencia\RegistroContactos\obj\Debug\net6.0\RegistroContactos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmartiniquinteros\source\repos\Persistencia\RegistroContactos\obj\Debug\net6.0\RegistroContactos.AssemblyInfoInputs.cache
+C:\Users\lmartiniquinteros\source\repos\Persistencia\RegistroContactos\obj\Debug\net6.0\RegistroContactos.AssemblyInfo.cs
+C:\Users\lmartiniquinteros\source\repos\Persistencia\RegistroContactos\obj\Debug\net6.0\RegistroContactos.csproj.CoreCompileInputs.cache
+C:\Users\lmartiniquinteros\source\repos\Persistencia\RegistroContactos\obj\Debug\net6.0\RegistroContactos.dll
+C:\Users\lmartiniquinteros\source\repos\Persistencia\RegistroContactos\obj\Debug\net6.0\refint\RegistroContactos.dll
+C:\Users\lmartiniquinteros\source\repos\Persistencia\RegistroContactos\obj\Debug\net6.0\RegistroContactos.pdb
+C:\Users\lmartiniquinteros\source\repos\Persistencia\RegistroContactos\obj\Debug\net6.0\RegistroContactos.genruntimeconfig.cache
+C:\Users\lmartiniquinteros\source\repos\Persistencia\RegistroContactos\obj\Debug\net6.0\ref\RegistroContactos.dll

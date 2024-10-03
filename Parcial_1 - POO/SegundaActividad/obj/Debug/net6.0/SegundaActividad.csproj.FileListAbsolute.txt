@@ -1,0 +1,14 @@
+C:\Users\lmartiniquinteros\source\repos\Parcial_1 - POO\SegundaActividad\bin\Debug\net6.0\SegundaActividad.exe
+C:\Users\lmartiniquinteros\source\repos\Parcial_1 - POO\SegundaActividad\bin\Debug\net6.0\SegundaActividad.deps.json
+C:\Users\lmartiniquinteros\source\repos\Parcial_1 - POO\SegundaActividad\bin\Debug\net6.0\SegundaActividad.runtimeconfig.json
+C:\Users\lmartiniquinteros\source\repos\Parcial_1 - POO\SegundaActividad\bin\Debug\net6.0\SegundaActividad.dll
+C:\Users\lmartiniquinteros\source\repos\Parcial_1 - POO\SegundaActividad\bin\Debug\net6.0\SegundaActividad.pdb
+C:\Users\lmartiniquinteros\source\repos\Parcial_1 - POO\SegundaActividad\obj\Debug\net6.0\SegundaActividad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmartiniquinteros\source\repos\Parcial_1 - POO\SegundaActividad\obj\Debug\net6.0\SegundaActividad.AssemblyInfoInputs.cache
+C:\Users\lmartiniquinteros\source\repos\Parcial_1 - POO\SegundaActividad\obj\Debug\net6.0\SegundaActividad.AssemblyInfo.cs
+C:\Users\lmartiniquinteros\source\repos\Parcial_1 - POO\SegundaActividad\obj\Debug\net6.0\SegundaActividad.csproj.CoreCompileInputs.cache
+C:\Users\lmartiniquinteros\source\repos\Parcial_1 - POO\SegundaActividad\obj\Debug\net6.0\SegundaActividad.dll
+C:\Users\lmartiniquinteros\source\repos\Parcial_1 - POO\SegundaActividad\obj\Debug\net6.0\refint\SegundaActividad.dll
+C:\Users\lmartiniquinteros\source\repos\Parcial_1 - POO\SegundaActividad\obj\Debug\net6.0\SegundaActividad.pdb
+C:\Users\lmartiniquinteros\source\repos\Parcial_1 - POO\SegundaActividad\obj\Debug\net6.0\SegundaActividad.genruntimeconfig.cache
+C:\Users\lmartiniquinteros\source\repos\Parcial_1 - POO\SegundaActividad\obj\Debug\net6.0\ref\SegundaActividad.dll

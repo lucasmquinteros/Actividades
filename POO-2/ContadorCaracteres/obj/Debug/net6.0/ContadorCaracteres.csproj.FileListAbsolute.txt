@@ -1,0 +1,14 @@
+C:\Users\lmartiniquinteros\source\repos\POO-2\ContadorCaracteres\bin\Debug\net6.0\ContadorCaracteres.exe
+C:\Users\lmartiniquinteros\source\repos\POO-2\ContadorCaracteres\bin\Debug\net6.0\ContadorCaracteres.deps.json
+C:\Users\lmartiniquinteros\source\repos\POO-2\ContadorCaracteres\bin\Debug\net6.0\ContadorCaracteres.runtimeconfig.json
+C:\Users\lmartiniquinteros\source\repos\POO-2\ContadorCaracteres\bin\Debug\net6.0\ContadorCaracteres.dll
+C:\Users\lmartiniquinteros\source\repos\POO-2\ContadorCaracteres\bin\Debug\net6.0\ContadorCaracteres.pdb
+C:\Users\lmartiniquinteros\source\repos\POO-2\ContadorCaracteres\obj\Debug\net6.0\ContadorCaracteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmartiniquinteros\source\repos\POO-2\ContadorCaracteres\obj\Debug\net6.0\ContadorCaracteres.AssemblyInfoInputs.cache
+C:\Users\lmartiniquinteros\source\repos\POO-2\ContadorCaracteres\obj\Debug\net6.0\ContadorCaracteres.AssemblyInfo.cs
+C:\Users\lmartiniquinteros\source\repos\POO-2\ContadorCaracteres\obj\Debug\net6.0\ContadorCaracteres.csproj.CoreCompileInputs.cache
+C:\Users\lmartiniquinteros\source\repos\POO-2\ContadorCaracteres\obj\Debug\net6.0\ContadorCaracteres.dll
+C:\Users\lmartiniquinteros\source\repos\POO-2\ContadorCaracteres\obj\Debug\net6.0\refint\ContadorCaracteres.dll
+C:\Users\lmartiniquinteros\source\repos\POO-2\ContadorCaracteres\obj\Debug\net6.0\ContadorCaracteres.pdb
+C:\Users\lmartiniquinteros\source\repos\POO-2\ContadorCaracteres\obj\Debug\net6.0\ContadorCaracteres.genruntimeconfig.cache
+C:\Users\lmartiniquinteros\source\repos\POO-2\ContadorCaracteres\obj\Debug\net6.0\ref\ContadorCaracteres.dll

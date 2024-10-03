@@ -1,0 +1,14 @@
+C:\Users\lmartiniquinteros\source\repos\POO-2\TAREA\bin\Debug\net6.0\TAREA.exe
+C:\Users\lmartiniquinteros\source\repos\POO-2\TAREA\bin\Debug\net6.0\TAREA.deps.json
+C:\Users\lmartiniquinteros\source\repos\POO-2\TAREA\bin\Debug\net6.0\TAREA.runtimeconfig.json
+C:\Users\lmartiniquinteros\source\repos\POO-2\TAREA\bin\Debug\net6.0\TAREA.dll
+C:\Users\lmartiniquinteros\source\repos\POO-2\TAREA\bin\Debug\net6.0\TAREA.pdb
+C:\Users\lmartiniquinteros\source\repos\POO-2\TAREA\obj\Debug\net6.0\TAREA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lmartiniquinteros\source\repos\POO-2\TAREA\obj\Debug\net6.0\TAREA.AssemblyInfoInputs.cache
+C:\Users\lmartiniquinteros\source\repos\POO-2\TAREA\obj\Debug\net6.0\TAREA.AssemblyInfo.cs
+C:\Users\lmartiniquinteros\source\repos\POO-2\TAREA\obj\Debug\net6.0\TAREA.csproj.CoreCompileInputs.cache
+C:\Users\lmartiniquinteros\source\repos\POO-2\TAREA\obj\Debug\net6.0\TAREA.dll
+C:\Users\lmartiniquinteros\source\repos\POO-2\TAREA\obj\Debug\net6.0\refint\TAREA.dll
+C:\Users\lmartiniquinteros\source\repos\POO-2\TAREA\obj\Debug\net6.0\TAREA.pdb
+C:\Users\lmartiniquinteros\source\repos\POO-2\TAREA\obj\Debug\net6.0\TAREA.genruntimeconfig.cache
+C:\Users\lmartiniquinteros\source\repos\POO-2\TAREA\obj\Debug\net6.0\ref\TAREA.dll

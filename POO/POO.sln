@@ -41,7 +41,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ActividadLarga", "Actividad
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gimnasio", "Gimnasio\Gimnasio.csproj", "{13921AB3-BFF7-46D7-AF02-B6ABAD7E2AF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tienda", "Tienda\Tienda.csproj", "{5D0BF61B-5EE6-4A09-AF96-EC7B54F08C23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tienda", "Tienda\Tienda.csproj", "{5D0BF61B-5EE6-4A09-AF96-EC7B54F08C23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colecciones", "Colecciones\Colecciones.csproj", "{A0B57083-E064-4942-829E-A82FB16970B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{5D0BF61B-5EE6-4A09-AF96-EC7B54F08C23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D0BF61B-5EE6-4A09-AF96-EC7B54F08C23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D0BF61B-5EE6-4A09-AF96-EC7B54F08C23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0B57083-E064-4942-829E-A82FB16970B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0B57083-E064-4942-829E-A82FB16970B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0B57083-E064-4942-829E-A82FB16970B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0B57083-E064-4942-829E-A82FB16970B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
